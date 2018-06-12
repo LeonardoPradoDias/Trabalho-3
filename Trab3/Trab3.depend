@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528773504 source:c:\users\leodi\documents\trab3\main.c
+	<stdio.h>
+	<stdlib.h>
+
